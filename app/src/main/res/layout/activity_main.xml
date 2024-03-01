@@ -10,7 +10,8 @@
     <ImageView
         android:layout_width="150dp"
         android:layout_height="200dp"
-        android:src="#2c2c2c" />
+        android:scaleType="centerCrop"
+        android:src="@drawable/LOGOGATO" />
 
     <TextView
         android:layout_width="wrap_content"
